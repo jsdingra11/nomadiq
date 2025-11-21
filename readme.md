@@ -65,7 +65,7 @@ deal is good enough” intuition.
 
 ## Function
 
-Main function lives in `solution.py`:
+Main function lives in `main.py`:
 
 ```python
 def find_best_booking_time(prices, tolerance=0.10):
@@ -83,7 +83,7 @@ from the prompt.
 ## How to run
 
 ```bash
-python solution.py
+python main.py
 ```
 
 You’ll see the example prices and the recommended booking day printed
